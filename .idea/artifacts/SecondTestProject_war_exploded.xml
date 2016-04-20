@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SecondTestProject:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SecondTestProject_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SecondTestProject/web/Web" />
+      <element id="javaee-facet-resources" facet="SecondTestProject/web/Web2" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - employees@localhost" uuid="4f181ecb-bf17-4617-90e9-6e1f27efad84">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="hibernate.cfg.xml/Hibernate" uuid="f1234b35-9f5e-436b-8829-bfa4104c9dd3">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
